@@ -1,0 +1,18 @@
+Hello,
+
+None of my apps make any direct attempts at storing or using personal data.
+Neither are they ad supported, so please just uninstall if you feel you are
+being intruded on. Or you can even just directly look through the source code
+yourself to verify this if you wish. All of my apps are licensed to the public
+domain, so their code belongs to you just as much as it belongs to me.
+
+If there is any data collection happening, this is through 3rd party libraries
+that are outside of my control. Please use common sense when submitting data
+to my apps. However, none of my apps even have a form for you to submit any
+data to anyway.
+
+Also note that all of my apps are just personal projects. There is no money in
+any of this.
+
+Thanks, I hope you enjoy using my app(s).
+Charles Madere
